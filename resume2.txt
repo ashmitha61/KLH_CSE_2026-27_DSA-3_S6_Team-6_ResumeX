@@ -1,0 +1,5 @@
+Name: Priya Nair
+Education: B.Tech in Information Technology
+Skills: Python, Machine Learning, SQL, Pandas, NumPy, Data Analysis
+Projects: Developed a sales forecasting dashboard using Python and data analysis; created a sentiment analysis model.
+Experience: Worked as data analyst intern and used SQL for reporting and data cleaning.

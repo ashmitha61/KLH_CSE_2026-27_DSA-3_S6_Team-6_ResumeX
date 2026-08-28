@@ -1,0 +1,5 @@
+Name: Rahul Sharma
+Education: B.Tech in Computer Science and Engineering
+Skills: Java, Python, SQL, Data Structures, Machine Learning, C
+Projects: Built a student management system in Java; created a predictive model using Python for exam performance.
+Experience: Internship at DataWorks as Java Developer; worked on backend APIs and database queries.
