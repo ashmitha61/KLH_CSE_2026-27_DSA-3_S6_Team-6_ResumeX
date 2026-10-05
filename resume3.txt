@@ -1,5 +1,0 @@
-Name: Arjun Verma
-Education: B.E. in Computer Engineering
-Skills: Java, HTML, CSS, JavaScript, React, C
-Projects: Built responsive websites and Java-based desktop apps; developed a front-end dashboard using React.
-Experience: Web developer internship; created UI components and API integrations.
