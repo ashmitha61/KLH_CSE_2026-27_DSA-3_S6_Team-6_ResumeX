@@ -1,0 +1,7 @@
+Name: Varun Gupta
+Email: varun@gmail.com
+Phone: 9876543224
+Skills: Java, Python, SQL, MongoDB, Spring Boot
+Education: B.Tech Computer Engineering
+Experience: 3 years
+Projects: Banking System, Customer Management Application

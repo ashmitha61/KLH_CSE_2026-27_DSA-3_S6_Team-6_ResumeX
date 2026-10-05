@@ -1,0 +1,7 @@
+Name: Divya Patel
+Email: divya@gmail.com
+Phone: 9876543219
+Skills: Python, Flask, SQL, HTML, CSS, JavaScript
+Education: B.Tech Information Technology
+Experience: 1 year
+Projects: Job Portal, Resume Management System

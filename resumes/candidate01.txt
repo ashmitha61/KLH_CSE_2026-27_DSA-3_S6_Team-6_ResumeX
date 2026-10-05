@@ -1,0 +1,7 @@
+Name: Ananya Sharma
+Email: ananya@gmail.com
+Phone: 9876543210
+Skills: Java, Python, SQL, DBMS, Data Structures
+Education: B.Tech Computer Science
+Experience: 1 year
+Projects: Student Management System, Resume Search System

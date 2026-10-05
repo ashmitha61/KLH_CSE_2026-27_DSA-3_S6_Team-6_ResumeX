@@ -1,0 +1,7 @@
+Name: Rohit Singh
+Email: rohit@gmail.com
+Phone: 9876543220
+Skills: C, C++, Linux, Shell Scripting, Git
+Education: B.Tech Computer Science
+Experience: 2 years
+Projects: Linux File Manager, Process Monitoring Tool

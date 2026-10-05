@@ -1,0 +1,7 @@
+Name: Arjun Kumar
+Email: arjun@gmail.com
+Phone: 9876543216
+Skills: C++, Java, Data Structures, Algorithms, Git
+Education: B.Tech Computer Engineering
+Experience: 2 years
+Projects: Maze Solver, Inventory Management System

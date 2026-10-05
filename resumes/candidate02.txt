@@ -1,0 +1,7 @@
+Name: Rahul Kumar
+Email: rahul@gmail.com
+Phone: 9876543211
+Skills: Python, Machine Learning, SQL, Statistics, Pandas
+Education: B.Tech Computer Science
+Experience: 2 years
+Projects: Loan Default Prediction, House Price Prediction

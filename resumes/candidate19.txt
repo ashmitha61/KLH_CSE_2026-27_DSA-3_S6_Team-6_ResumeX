@@ -1,0 +1,7 @@
+Name: Akash Reddy
+Email: akash@ahoo.com
+Phone: 9876543228
+Skills: Java, Spring Boot, SQL, Docker, REST API
+Education: B.Tech Computer Science
+Experience: 3 years
+Projects: E-Commerce Application, Payment Gateway System

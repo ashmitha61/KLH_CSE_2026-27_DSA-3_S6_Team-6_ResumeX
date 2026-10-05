@@ -1,0 +1,7 @@
+Name: Priya Nair
+Email: priya@gmail.com
+Phone: 9876543217
+Skills: React, JavaScript, HTML, CSS, Node.js
+Education: B.Tech Information Technology
+Experience: 1 year
+Projects: Food Delivery Website, Event Management Portal

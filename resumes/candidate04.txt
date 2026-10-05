@@ -1,0 +1,7 @@
+Name: Ananya Pandey
+Email: ananya@gmail.com
+Phone: 9876543213
+Skills: Python, SQL, Django, HTML, CSS, JavaScript
+Education: B.Tech Computer Science
+Experience: 1 year
+Projects: Online Book Store, Library Management System

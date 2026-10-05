@@ -1,0 +1,7 @@
+Name: Neha Joshi
+Email: neha@gmail.com
+Phone: 9876543225
+Skills: Python, Machine Learning, Scikit-learn, Pandas, SQL
+Education: B.Tech Artificial Intelligence
+Experience: 2 years
+Projects: Spam Email Classifier, House Price Prediction

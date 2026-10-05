@@ -1,0 +1,7 @@
+Name: Sneha Reddy
+Email: sneha@gmail.com
+Phone: 9876543215
+Skills: Python, Machine Learning, Pandas, NumPy, SQL
+Education: B.Tech Computer Science
+Experience: 1 year
+Projects: Loan Prediction System, Student Performance Prediction

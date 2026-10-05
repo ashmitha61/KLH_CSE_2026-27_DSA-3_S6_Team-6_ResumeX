@@ -1,0 +1,7 @@
+Name: Harika Reddy
+Email: harika@gmail.com
+Phone: 9876543212
+Skills: Java, SQL, React, HTML, CSS, Spring
+Education: B.Tech Information Technology
+Experience: 1 year
+Projects: E-Commerce Application, Student Portal

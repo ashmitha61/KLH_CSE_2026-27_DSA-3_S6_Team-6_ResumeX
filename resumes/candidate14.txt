@@ -1,0 +1,7 @@
+Name: Kavya Reddy
+Email: kavya@gmail.com
+Phone: 9876543223
+Skills: HTML, CSS, JavaScript, React, Bootstrap
+Education: B.Tech Computer Science
+Experience: 1 year
+Projects: Portfolio Website, Online Course Platform

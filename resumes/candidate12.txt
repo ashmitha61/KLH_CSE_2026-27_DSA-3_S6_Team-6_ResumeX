@@ -1,0 +1,7 @@
+Name: Meera Krishnan
+Email: meera@gamil.com
+Phone: 9876543221
+Skills: Java, React, SQL, Spring, JavaScript
+Education: B.Tech Software Engineering
+Experience: 2 years
+Projects: Online Shopping Platform, Employee Portal

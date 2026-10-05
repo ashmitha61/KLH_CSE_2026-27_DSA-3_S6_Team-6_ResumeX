@@ -1,0 +1,7 @@
+Name: Karthik Rao
+Email: karthik@gmail.com
+Phone: 9876543218
+Skills: Java, SQL, Spring Boot, Hibernate, REST API
+Education: B.Tech Computer Science
+Experience: 3 years
+Projects: E-Commerce Backend, Hospital Management System

@@ -1,0 +1,7 @@
+Name: Sai Teja
+Email: saiteja@outlook.com
+Phone: 9876543226
+Skills: Java, C++, Data Structures, SQL, Git
+Education: B.Tech Computer Science
+Experience: 1 year
+Projects: Resume Screening System, Library Management System
