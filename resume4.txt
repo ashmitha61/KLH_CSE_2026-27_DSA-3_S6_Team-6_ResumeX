@@ -1,5 +1,0 @@
-Name: Sneha Iyer
-Education: B.Tech in Computer Science
-Skills: Python, JavaScript, HTML, CSS, SQL, Data Analysis
-Projects: Created a portfolio website and automated data reporting script using Python.
-Experience: Internship in software testing and data handling tasks for customer reports.
